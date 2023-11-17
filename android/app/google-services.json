@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "322364170094",
+    "firebase_url": "https://absen-8d396-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "absen-8d396",
+    "storage_bucket": "absen-8d396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322364170094:android:41acbd5a6b48150ec5ab7f",
+        "android_client_info": {
+          "package_name": "com.example.absensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEgkydZWFomi3Jb_3aLQnScYZLrciVyis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
